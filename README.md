@@ -1,4 +1,4 @@
-![alt text](assets\image.png)
+![alt text](https://laravel.com/img/logotype.min.svg)
 ## Descrição 
 Este projeto tem como objetivo atender ao desafio da UNITEC, utilizando PHP com Laravel. O sistema contém funcionalidades de backend, como:
 - Componentização para reaproveitamento de código.
